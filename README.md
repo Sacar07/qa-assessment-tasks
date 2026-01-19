@@ -66,4 +66,6 @@ based on the provided requirements.
 - Valid registration submission
 - Invalid input validation for individual fields
 
+🔗 Manual Test Cases (Google Sheet): 
+https://docs.google.com/spreadsheets/d/1SmJQIYXwtgJu4LQfU0yf_oiXcyYggIJtaWwedIVCG7w/edit?usp=sharing
 
