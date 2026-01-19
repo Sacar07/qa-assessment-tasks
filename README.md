@@ -61,11 +61,6 @@ based on the provided requirements.
 - Credit card validation
 - Telephone number validation
 
-🔗 Test Cases (Google Sheet):  
-https://docs.google.com/spreadsheets/d/1SmJQIYXwtgJu4LQfU0yf_oiXcyYggIJtaWwedIVCG7w/edit?usp=sharing
-
----
-
 
 **Scope:**
 - Valid registration submission
